@@ -17,7 +17,7 @@ This is a personal website showcasing achievements, ongoing work, and projects.
 
 ## Deployment
 
-The website is hosted on GitHub Pages. You can view it live at [https://[your-username].github.io](https://[your-username].github.io).
+The website is hosted on GitHub Pages. You can view it live at [https://Doremon3363.github.io](https://Doremon3363.github.io).
 
 ## Credits
 
